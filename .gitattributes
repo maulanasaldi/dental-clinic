@@ -1,0 +1,2 @@
+# Tell GitHub Linguist to include React folder as JavaScript
+dental-frontend/* linguist-language=JavaScript
